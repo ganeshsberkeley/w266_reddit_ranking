@@ -1,8 +1,8 @@
 import numpy as np
 import scipy.sparse
 
-from shared_lib import vocabulary
-from shared_lib import utils
+import vocabulary
+import utils
 
 # Version check for sklearn
 import sklearn
